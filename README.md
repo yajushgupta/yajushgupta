@@ -24,4 +24,4 @@ I build open tools from my reporting at Industry Contents and [IC Lab](https://i
 
 ## Elsewhere
 
-[Industry Contents](https://industrycontents.com) · [IC Lab](https://industrycontents.com/ic-lab/) · [LinkedIn](https://www.linkedin.com/in/yajush_Gupta)
+[Industry Contents](https://industrycontents.com) · [IC Lab](https://industrycontents.com/ic-lab/) · [LinkedIn](https://www.linkedin.com/in/yajushgupta/)
