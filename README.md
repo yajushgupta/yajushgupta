@@ -17,10 +17,9 @@ I turn data and research into useful stories, decisions and tools. My work conne
 
 | Project | What it explores | Status |
 | --- | --- | --- |
-| [Email List Checker](https://github.com/YJush/YJush-email-verifier-streamlit) | Comparing CSV email lists with Python, pandas and Streamlit | Working prototype; list comparison, not deliverability verification |
-| [Media Insight Engine](https://github.com/YJush/media-insight-engine) | AI-assisted article analysis for editorial and business research | Experimental; outputs require independent verification |
+| [Email List Checker](https://github.com/YJush/YJush-email-verifier-streamlit) | CSV data cleaning, explicit list comparisons and safe exports with Python and Streamlit | Tested comparison core with GitHub Actions; portfolio prototype |
 
-I also work on research discovery and publishing workflows. Projects are presented with their current capabilities and limitations, rather than claims of production readiness.
+My repositories also explore research discovery, article analysis and publishing workflows. Each project README explains the problem, implementation, setup and current limitations.
 
 ## Writing and contact
 
