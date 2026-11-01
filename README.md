@@ -1,28 +1,27 @@
-# Yajush
+# Yajush Gupta
 
-### Data analytics · Marketing · Journalism
+**Founding Editor, [Industry Contents](https://industrycontents.com)**. Data analytics, marketing and business journalism on how AI changes European business.
 
-I turn data and research into useful stories, decisions and tools. My work connects audience analysis, editorial judgment and practical software, with a focus on making research and reporting easier to use.
+I build open tools from my reporting at Industry Contents and [IC Lab](https://industrycontents.com/ic-lab/): calculators, trackers and analysis utilities that run in the browser, so your data stays with you.
 
-## What I bring
+## Projects
 
-- **Analytics:** data cleaning, exploratory analysis, dashboards and business reporting.
-- **Marketing:** audience research, content performance and tools for everyday marketing workflows.
-- **Journalism:** technology and business research, source evaluation and clear explanations.
-- **Software:** small applications that connect those disciplines and solve a specific problem.
+| Project | What it does |
+| --- | --- |
+| [Video Commerce ROI Dashboard](https://github.com/YJush/video-commerce-roi-dashboard) | Break-even, payback and pilot design for shoppable video and live shopping. Runs fully client-side. |
+| [Article Credibility Analyzer](https://github.com/YJush/article-credibility-analyzer) | Scores how promotional an article is and flags superlatives, undisclosed ties and biased framing. |
+| [Article Insight Engine](https://github.com/YJush/article-insight-engine) | Structured editorial read of any article: risks, intent, conflicts and missing perspectives. |
+| [Researcher Discovery](https://github.com/YJush/researcher-discovery) | Search OpenAlex, Scopus and PubMed for researchers and export shortlists. |
+| [CSV Email List Comparator](https://github.com/YJush/csv-email-list-comparator) | Compare, merge and diff email lists with Python and Streamlit. |
 
-**Tools:** Python, SQL, Excel, Tableau, Power BI, JavaScript and TypeScript.
+## Work
 
-## Selected public projects
+- **Analytics:** growth analytics, CAC and conversion diagnostics, unit economics.
+- **Marketing:** audience research, advanced SEO and generative engine optimization.
+- **Journalism:** business and financial reporting, including time at Reuters.
 
-| Project | What it explores | Status |
-| --- | --- | --- |
-| [Email List Checker](https://github.com/YJush/YJush-email-verifier-streamlit) | CSV data cleaning, explicit list comparisons and safe exports with Python and Streamlit | Tested comparison core with GitHub Actions; portfolio prototype |
+**Stack:** Python, SQL, TypeScript, React, Streamlit, Supabase, Tableau, Power BI.
 
-My repositories also explore research discovery, article analysis and publishing workflows. Each project README explains the problem, implementation, setup and current limitations.
+## Elsewhere
 
-## Writing and contact
-
-[Industry Contents](https://industrycontents.com) · [LinkedIn](https://www.linkedin.com/in/yajush_Gupta)
-
-For opportunities spanning data analytics, marketing and editorial research, connect with me on LinkedIn.
+[Industry Contents](https://industrycontents.com) · [IC Lab](https://industrycontents.com/ic-lab/) · [LinkedIn](https://www.linkedin.com/in/yajush_Gupta)
